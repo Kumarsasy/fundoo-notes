@@ -1,0 +1,22 @@
+.title-color-1 {
+    color: #4285f4;
+}
+.title-color-2 {
+    color: #ea4335;
+}
+.title-color-3 {
+    color: #fbbc05;
+}
+
+.main-container {
+    border: 1px solid #eee;
+    padding: 50px;
+    margin-top: 10vh;
+    text-align: center;
+}
+
+.bottom-grid {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
